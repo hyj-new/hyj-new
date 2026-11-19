@@ -26,11 +26,16 @@
 
 ## 📁 项目
 
-| 项目 | 说明 | 技术 |
+| 仓库 | 方向 | 技术栈 |
 |---|---|---|
-| 待补充 | 仓库整理中，稍后更新 | — |
+| [pet_android](https://github.com/hyj-new/pet_android) | Android 原生练习 · 悬浮窗与通知 | Java · Kotlin · Android |
+| [takephoto_java](https://github.com/hyj-new/takephoto_java) | Android 原生练习 · 拍照与图片保存 | Java · Android |
+| [mediaplay](https://github.com/hyj-new/mediaplay) | Android 原生练习 · 本地媒体播放 | Java · Android |
+| [yanti](https://github.com/hyj-new/yanti) | 鸿蒙页面与支付流程练习 | ArkTS · ArkUI |
+| [harmonyoscup](https://github.com/hyj-new/harmonyoscup) | 鸿蒙综合练习项目 | ArkTS · ArkUI |
+| [android-lab-projects](https://github.com/hyj-new/android-lab-projects) | Android 练习集合的目录与规范说明 | Markdown |
 
-> 项目代码与 README 正在陆续整理上线。
+> 各仓库 README 正在陆续补充。
 
 ---
 
